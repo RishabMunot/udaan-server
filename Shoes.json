@@ -1,0 +1,532 @@
+[
+  {
+    "product_id": 2505,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/816nW575pfL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Juttis and Mojaris",
+    "price": 349,
+    "stock": 105,
+    "color": "Black"
+  },
+  {
+    "product_id": 2530,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/41Z2-D2EeJL._AC_UL320_.jpg",
+    "product_description": "Hillson Nucleus ISI Marked Safety Shoe, Size-8 UK, Black",
+    "price": "1,079",
+    "stock": 324,
+    "color": "Black"
+  },
+  {
+    "product_id": 2539,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61PQBtPvr3L._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 999,
+    "stock": 300,
+    "color": "Black"
+  },
+  {
+    "product_id": 2547,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61A5BN1Q1CL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 471,
+    "stock": 142,
+    "color": "Black"
+  },
+  {
+    "product_id": 2582,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/41xY6Lg+ekL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 399,
+    "stock": 120,
+    "color": "Black"
+  },
+  {
+    "product_id": 2594,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61gjjNXwm0L._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 449,
+    "stock": 135,
+    "color": "Black"
+  },
+  {
+    "product_id": 2572,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61gjjNXwm0L._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 379,
+    "stock": 114,
+    "color": "Black"
+  },
+  {
+    "product_id": 2510,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81LD-6UTJ3L._AC_UL320_.jpg",
+    "product_description": "Men's Taylor Slip On Leather Casual Shoes",
+    "price": "3,199",
+    "stock": 960,
+    "color": "Black"
+  },
+  {
+    "product_id": 2540,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71aA5i6xhCL._AC_UL320_.jpg",
+    "product_description": "Men's Sedan Thong Leather Flip Flops Thong Sandals",
+    "price": "1,190",
+    "stock": 358,
+    "color": "Black"
+  },
+  {
+    "product_id": 2580,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81OFxQGfTML._AC_UL320_.jpg",
+    "product_description": "Men's Sandals",
+    "price": "1,435",
+    "stock": 431,
+    "color": "Black"
+  },
+  {
+    "product_id": 2561,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/41NMeh1soHL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 499,
+    "stock": 150,
+    "color": "Black"
+  },
+  {
+    "product_id": 2500,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81wjDxAUjHL._AC_UL320_.jpg",
+    "product_description": "Men's Jungle-Ii Formal Shoes",
+    "price": "2,261",
+    "stock": 679,
+    "color": "Black"
+  },
+  {
+    "product_id": 2537,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71GOUAnEevL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 929,
+    "stock": 279,
+    "color": "Black"
+  },
+  {
+    "product_id": 2585,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61WpJrQ052L._AC_UL320_.jpg",
+    "product_description": "Men's Nl-harion Leather Formal Shoes",
+    "price": "2,249",
+    "stock": 675,
+    "color": "Black"
+  },
+  {
+    "product_id": 2521,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81Y1SpEeIBL._AC_UL320_.jpg",
+    "product_description": "Men's Bruce Slip On Leather Formal Shoes",
+    "price": "1,943",
+    "stock": 583,
+    "color": "Black"
+  },
+  {
+    "product_id": 2601,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81LXXoS1GzL._AC_UL320_.jpg",
+    "product_description": "Men's Sedan Mule Leather Flip Flops Thong Sandals",
+    "price": "1,699",
+    "stock": 510,
+    "color": "Black"
+  },
+  {
+    "product_id": 2603,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81nyknK-5pL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": "1,299",
+    "stock": 390,
+    "color": "Black"
+  },
+  {
+    "product_id": 2560,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81I8LXFkBwL._AC_UL320_.jpg",
+    "product_description": "Men's Bruce_Lace Up Formal Shoes",
+    "price": "1,718",
+    "stock": 516,
+    "color": "Black"
+  },
+  {
+    "product_id": 2507,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61b2EGG4cOL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": 799,
+    "stock": 240,
+    "color": "Black"
+  },
+  {
+    "product_id": 2574,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71GZ8PtUgZL._AC_UL320_.jpg",
+    "product_description": "Redchief Men's Leather Formal Shoes",
+    "price": "1,921",
+    "stock": 577,
+    "color": "Black"
+  },
+  {
+    "product_id": 2519,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71i29H-B5ML._AC_UL320_.jpg",
+    "product_description": "Mens Black Genuine Leather NCC Military Army Boot Shoes with Steel Toe",
+    "price": 947,
+    "stock": 285,
+    "color": "Black"
+  },
+  {
+    "product_id": 2513,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71NFAnFa9cL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": "2,699",
+    "stock": 810,
+    "color": "Black"
+  },
+  {
+    "product_id": 2588,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71bTOZ8WjGL._AC_UL320_.jpg",
+    "product_description": "Uniform Black Shoes,Genuine Leather, JOXF-1000- Light Weight, Leather Oxford Shoes",
+    "price": 679,
+    "stock": 204,
+    "color": "Black"
+  },
+  {
+    "product_id": 2518,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71Nvy2366RL._AC_UL320_.jpg",
+    "product_description": "Men's Modern Shoes",
+    "price": 949,
+    "stock": 285,
+    "color": "Black"
+  },
+  {
+    "product_id": 2573,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61bCQwnFpxL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": "2,599",
+    "stock": 780,
+    "color": "Black"
+  },
+  {
+    "product_id": 2549,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/614lLO0uh-L._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 399,
+    "stock": 120,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2570,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71h6IDMfR5L._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": 899,
+    "stock": 270,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2536,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71LKSqEfyML._AC_UL320_.jpg",
+    "product_description": "Men's Rebound Leather Flip Flops Thong Sandals",
+    "price": "1,926",
+    "stock": 578,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2501,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71kX2rkSh9L._AC_UL320_.jpg",
+    "product_description": "Men's Sedan Thong Leather Flip Flops Thong Sandals",
+    "price": "1,190",
+    "stock": 358,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2583,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81lUhFmje-L._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 929,
+    "stock": 279,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2542,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/717VQOrdC5L._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": "1,029",
+    "stock": 309,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2503,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71mLFzYuYOL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": "1,199",
+    "stock": 360,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2584,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71fwRZ9bmmL._AC_UL320_.jpg",
+    "product_description": "Men's Derbys Leather Shoes",
+    "price": "1,424",
+    "stock": 428,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2576,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71hZvdeizQL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": "1,029",
+    "stock": 309,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2535,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/61UFb3oLCIL._AC_UL320_.jpg",
+    "product_description": "Men's Fashion Sandal",
+    "price": 785,
+    "stock": 236,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2565,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71YGsctFrBL._AC_UL320_.jpg",
+    "product_description": "Popular Designer Ankle Length Casual Shoes",
+    "price": 599,
+    "stock": 180,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2567,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71iA3iLfBFL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": 849,
+    "stock": 255,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2543,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/817JSYideXL._AC_UL320_.jpg",
+    "product_description": "Men's Corso Oxford Leather Formal Shoes",
+    "price": "2,600",
+    "stock": 781,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2508,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81ZYk45LGrL._AC_UL320_.jpg",
+    "product_description": "Men's Decent Leather Flip Flops Thong Sandals",
+    "price": "1,540",
+    "stock": 463,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2604,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81ShlMZPyYL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": 1299,
+    "stock": 390,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2595,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81JReI8Me+L._AC_UL320_.jpg",
+    "product_description": "Men's Taylor Slip On Formal Shoes",
+    "price": "3,499",
+    "stock": 1050,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2563,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/716qQXq2FbL._AC_UL320_.jpg",
+    "product_description": "Men's Sedan Mule Leather Casual Slippers",
+    "price": "1,271",
+    "stock": 382,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2562,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81n93KUjOlL._AC_UL320_.jpg",
+    "product_description": "Men's Pk223 Leather Formal Shoes",
+    "price": "2,937",
+    "stock": 882,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2517,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71ZDMGe8ffL._AC_UL320_.jpg",
+    "product_description": "Men's Rte1403 Leather Formal Shoes",
+    "price": "1,345",
+    "stock": 404,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2523,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71xtDAB14dL._AC_UL320_.jpg",
+    "product_description": "Men's Traditional Half Shoes Jutti/nagra Mule",
+    "price": 475,
+    "stock": 143,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2600,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71PmVbA8nRL._AC_UL320_.jpg",
+    "product_description": "Men's Formal Shoes",
+    "price": "1,921",
+    "stock": 577,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2534,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71+wTIDAp0L._AC_UL320_.jpg",
+    "product_description": "Men's Apollo Mid Cut Boots",
+    "price": "3,250",
+    "stock": 976,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2545,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81qYLl1UeOL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": 940,
+    "stock": 283,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2506,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71qzJ8M9BBL._AC_UL320_.jpg",
+    "product_description": "Men's Leather Formal Shoes",
+    "price": 999,
+    "stock": 300,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2611,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71gRn5QjuoL._AC_UL320_.jpg",
+    "product_description": "Men's Moccasins",
+    "price": "1,185",
+    "stock": 356,
+    "color": "Brown"
+  },
+  {
+    "product_id": 2569,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71mKz9iRxjL._AC_UL320_.jpg",
+    "product_description": "Men's Keenan Slip On Leather Formal Shoes",
+    "price": "1,950",
+    "stock": 586,
+    "color": "Blue"
+  },
+  {
+    "product_id": 2591,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/71qHMJgn-UL._AC_UL320_.jpg",
+    "product_description": "Oxford Class Designer Patent Leatherette Shining Lace-Up Party Formal Shoes",
+    "price": 599,
+    "stock": 180,
+    "color": "Blue"
+  },
+  {
+    "product_id": 2605,
+    "product_title": "Shoes",
+    "category": "Shoes",
+    "image_url": "https://m.media-amazon.com/images/I/81qCLnm3zEL._AC_UL320_.jpg",
+    "product_description": "Men's Dael Leather Formal Shoes",
+    "price": "2,100",
+    "stock": 631,
+    "color": "Blue"
+  }
+]
